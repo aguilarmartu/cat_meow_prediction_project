@@ -1,6 +1,6 @@
 # cat_meow_prediction_project
 
-This project consist in a cat-meow classificator using audios of the meow as input! We train a model using Convolutional Neural Networks, CNN, a Deep Learning architecture. 
+This project consist in a cat-meow classificator using audios of the meow as input! We trained a model using Convolutional Neural Networks (CNN) a Deep Learning architecture. 
 
 ## process
 
