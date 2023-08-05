@@ -6,7 +6,7 @@ This project consist in a cat-meow classificator using audios of the meow as inp
 
 ### data
 
-You can find the row data here: https://www.kaggle.com/datasets/andrewmvd/cat-meow-classification
+You can find the raw data here: https://www.kaggle.com/datasets/andrewmvd/cat-meow-classification
 
 ### steps:
 1. We performed some exploratory analysis of the dataset and the audios. We decided which features would be relevant for the prediction
